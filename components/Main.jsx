@@ -21,7 +21,7 @@ const Main = () => {
         <Image src={photo} />
       </div>
       <div className="text-5xl flex justify-center mt-6">
-        <a href="https://github.com/maximilianoide">
+        <a href="https://github.com/maximilianoide/about-me">
           <AiFillGithub />
         </a>
       </div>
